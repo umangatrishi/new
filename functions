@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+void sum(int a, int b){
+    int c=a+b;
+    cout<<"the sum is :";
+    cout<<" "<<c<<endl;
+}
+int main(){
+    int num1,num2;
+    cout<<"first value"<<endl;
+    cin>>num1;
+    cout<<"second value"<<endl;
+    cin>>num2;
+    sum(num1, num2);
+    return 0;
+}
