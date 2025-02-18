@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <pre>
+      <b>this is bold</b>
+      
+      <strong>this is strong</strong
+                              
+      <em>this is emphasized</em>
+      <i>this is italic</i>
+      mark this <mark>this is an important information</mark>
+      dont do this: <del>do it</del>
+      <ins>inserted</ins>
+      <small>this is quite small</small>
+      7<sup>3</sup>
+      O<sub>2</sub>
+    </pre>
+
+
+
+    
+  </body>
+</html>
