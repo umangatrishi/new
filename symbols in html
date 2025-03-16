@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+  </head>
+  <body>
+   <pre>
+     this is euro sign &euro;
+     this is copyright sign &#169;
+     this is registered sign &#174;
+     &#9824;
+     &#9827;
+     &#916;
+     &#123;
+     &#124;
+     
+   </pre>
+  </body>
+</html>
