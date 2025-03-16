@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> My page</title>
+  </head>
+  <body>
+    <ul>
+      <li>apple</li>
+      <dd>this is a fruit</dd>
+      <li>banana</li>
+      <dd>this is also a fruit</dd>
+      <li>orange</li>
+    </ul>
+    <ol>
+      <li>apple</li>
+       <dd>this is a fruit</dd>
+      <li>banana</li>
+      <li>orange</li>
+      <li>kiwi</li>
+       <dd>this is also a fruit</dd>
+    </ol>
+    <dl>
+      <dt>apple</dt>
+       <dd>this is a fruit</dd>
+      <dt>banana</dt>
+      <dt>orange</dt>
+      <dt>kiwi</dt>
+       <dd>this is also a fruit</dd>
+    </dl>
+    
+  </body>  
+</html>
