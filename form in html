@@ -1,0 +1,17 @@
+CTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+  </head>
+  <body>
+   <form>
+     <lable for="username">Name</lable>
+     <input type="text" name="username" id="username">
+     <br>
+     <lable for="legal purposes">Age</lable>
+     <input type="number" name="legal purposes" id="legal purposes"">
+   </form>
+  </body>
+</html>
