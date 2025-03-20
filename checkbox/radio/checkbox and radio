@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+  </head>
+  <body>
+   <form>
+     <lable for="username 1">Umang</lable> 
+     <input type="checkbox" name="username1" id="username1" value="umang">
+     <br>
+     <lable for="username 2">Jedi</lable>
+     <input type="checkbox" name="username 2" id="username 2" value="jedi">
+   </form>
+  </body>
+</html>
