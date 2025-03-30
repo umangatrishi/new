@@ -1,0 +1,22 @@
+#welcome{
+  background-color: green;
+}
+h1.heading{
+  color: blue;
+} 
+*{
+  color: purple;
+}<!doctype html>
+<html>
+  <head>
+    <title>My Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1 id="welcome">Hi</h1>
+    <h1 class="heading">Tomi</h1>
+    <p class="heading">Tomi</p>
+  </body>
+</html>
+
+
