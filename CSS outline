@@ -1,0 +1,9 @@
+body{
+  background-color: white ;
+}
+
+h1{
+  border: 2px dashed green;
+outline-style:solid;
+  outline-offset:10px;
+}
