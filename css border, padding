@@ -1,0 +1,10 @@
+body{
+  background-color: white ;
+}
+
+h1{
+  background-color: blue;
+  border: 3px solid purple;
+  border-radius:5px;
+  padding: 40px 30px 20px 10px;
+}
