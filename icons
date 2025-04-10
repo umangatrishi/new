@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+    <h1>Hi</h1>
+    <h1>Tomi</h1>
+    <b>
+    <p>Tomi is a guy</p>
+    </b>
+    <a href="#">Link</a>
+    <i class="material-icons">cloud</i>
+    <i class="material-icons">computer</i>
+    <i class="material-icons">traffic</i>
+  </body>
+</html>
