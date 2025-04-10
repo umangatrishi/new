@@ -1,0 +1,42 @@
+body{
+  background-color: white ;
+}
+
+table, th, td{
+  border: 2px solid black;
+  width: 50%;
+  border-collapse: collapse;
+}
+th,td{
+  padding: 10px;
+  text-align: left;  
+}
+tr:hover{
+  background-color: yellow;
+}
+***************************************************************************************************************
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>Jhon</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>Tim</td>
+        <td>19</td>
+      </tr>
+    </table>
+  </body>
+</html>
