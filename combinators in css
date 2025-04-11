@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>
+      Hello World
+      <b>Hi</b>
+      <b>Hi</b>
+      <p>
+        <b>Whats Up</b>
+      </p>
+    </h1>
+    <h2>
+      Hello World
+      <a>Hi</a>
+      <a>Hi</a>
+      <p>
+        <a>Whats Up</a>
+      </p>
+    </h2>
+    <a>Hi</a>
+    <a>Hi</a>
+  </body>
+</html>
+*****************************************************************************************
+body{
+  background-color: white ;
+}
+h1>b{
+  color:red;
+}
+h2+a{
+color: #ff29d8;  
+}
+h2~a{
+  color: #ff29d8;
+}
