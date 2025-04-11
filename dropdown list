@@ -1,0 +1,52 @@
+.dropdownbutton{
+  background-color: blue;
+  color: white;
+  border:5px;
+  padding:13px;
+  font-size: 20px;
+  cursor:pointer;
+}
+.dropdown{
+  position:relative;
+  display:inline-block
+}
+.dropdown-menu{
+  display:none;
+  position:absolute;
+  background-color: lightblue;
+  min-width:181px;
+}
+.dropdown-menu a{
+  color: black;
+  display: block;
+  text-decoration:none;
+}
+.dropdown-menu a:hover{
+  background-color: white;
+}
+.dropdown:hover .dropdown-menu{
+  display:block;
+}
+.dropdown:hover .dropdownbutton{
+  background-color: grey;
+}
+*******************************************************************************
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      My Page
+    </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="dropdown">
+    <button class="dropdownbutton">Dropdown Button</button>
+    <div class="dropdown-menu">
+      <a href="#">List</a>
+      <a href="#">List</a>
+      <a href="#">List</a>
+      <a href="#">List</a>
+    </div>
+  </body>
+</html>
